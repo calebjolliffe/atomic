@@ -1,3 +1,8 @@
+---
+layout: post
+title: Disrespect yourself, disrespect everyone
+permalink: /disrespect/
+---
 # Disrespect yourself, disrespect everyone
 
 Lately I've been reflecting on self-deprecation and the effects it's had in my life. Based on my actions and what I've observed around me, I've come to a sobering realization:

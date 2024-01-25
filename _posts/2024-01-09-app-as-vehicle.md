@@ -1,3 +1,8 @@
+---
+layout: post
+title: App as Vehicle
+permalink: /vehicle/
+---
 # App as Vehicle
 At the end of 2023, inspired by Steph Ango's [file over app](https://stephango.com/file-over-app) philosophy, I began taking control of my digital life.
 

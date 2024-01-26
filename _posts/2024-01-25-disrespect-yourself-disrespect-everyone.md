@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Disrespect yourself, disrespect everyone
+stamp: 01 · 24
 permalink: /disrespect/
 ---
 # Disrespect yourself, disrespect everyone
+25 January, 2024 · 1 minute read
+
+---
 
 Lately I've been reflecting on self-deprecation and the effects it's had in my life. Based on my actions and what I've observed around me, I've come to a sobering realization:
 

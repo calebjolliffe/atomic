@@ -8,12 +8,16 @@ title: Caleb Jolliffe
 	<p>Writing</p>
 
 	<ul>
-		<li>01 · 24&emsp;<a href="/test">Test</a></li>
+		{% for post in site.posts %}
+			<li>{{ post.date | date_to_string }}&emsp;<a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
 	</ul>
 
 	<p>Recent</p>
 
 	<ul>
+		<li>01 · 24&emsp;<a href="/test">Template</a></li>
+		<li>01 · 24&emsp;<a href="/test">Template</a></li>
 		<li>01 · 24&emsp;<a href="/test">Template</a></li>
 	</ul>
 	

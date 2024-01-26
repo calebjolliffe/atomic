@@ -5,9 +5,9 @@ title: Caleb Jolliffe
 
 <r-cell span=row>
 
-	<p>Writing</p>
+	Writing
 
-	<ul>
+	<ul style="list-style-type:none;">
 		{% for post in site.posts %}
 			<li>{{ post.date | date_to_string }}&emsp;<a href="{{ post.url }}">{{ post.title }}</a></li>
 		{% endfor %}
@@ -15,7 +15,7 @@ title: Caleb Jolliffe
 
 	<p>Recent</p>
 
-	<ul>
+	<ul style="list-style-type:none;">
 		<li>01 · 24&emsp;<a href="/test">Template</a></li>
 		<li>01 · 24&emsp;<a href="/test">Template</a></li>
 		<li>01 · 24&emsp;<a href="/test">Template</a></li>

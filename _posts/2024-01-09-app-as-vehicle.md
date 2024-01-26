@@ -1,9 +1,16 @@
 ---
 layout: post
 title: App as Vehicle
+stamp: 01 · 24
 permalink: /vehicle/
 ---
+
 # App as Vehicle
+
+09 January, 2024 · 2 minute read
+
+---
+
 At the end of 2023, inspired by Steph Ango's [file over app](https://stephango.com/file-over-app) philosophy, I began taking control of my digital life.
 
 > If you want your writing to still be readable on a computer from the 2060s or 2160s, it's important that your notes can be read on a computer from the 1960s.

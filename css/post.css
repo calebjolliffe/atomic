@@ -55,21 +55,6 @@ table {
   font:100%;
 }
 
-ul.posts {
-  list-style-type:none;
-  margin-bottom:2em;
-}
-
-  ul.posts li {
-    line-height:1.75em;
-  }
-
-  ul.posts span {
-    color:#AAA;
-    font-family:Menlo, Monaco, "Courier New", monospace;
-    font-size:80%;
-  }
-
 .site {
   font-size:110%;
   text-align:justify;

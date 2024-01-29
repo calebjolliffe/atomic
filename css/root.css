@@ -27,8 +27,10 @@ p {
 }
 
 blockquote {
-  border-left:2.5px #000;
+  border-left:2.5px #AAA;
   margin:1.5em;
+  color:#AAA;
+  font-style:italic;
 }
 
 blockquote p {
